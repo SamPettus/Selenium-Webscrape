@@ -1,0 +1,197 @@
+1573170007050	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/23n89jb92016qk1f43hvt4b80000gn/T/rust_mozprofile.SYsrcE2Y4lma"
+1573170008794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573170008794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573170008795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573170008795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573170010387	Marionette	INFO	Listening on port 50198
+1573170010486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221573160879073%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1573170494833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/23n89jb92016qk1f43hvt4b80000gn/T/rust_mozprofile.whKkvWaZwtns"
+1573170495274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573170495274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573170495274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573170495275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573170496644	Marionette	INFO	Listening on port 50329
+1573170496687	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1573170497309	Marionette	INFO	Stopped listening on port 50198
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+1573170729771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/23n89jb92016qk1f43hvt4b80000gn/T/rust_mozprofile.LFs037v9cxuf"
+1573170730155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573170730155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573170730155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573170730156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573170731524	Marionette	INFO	Listening on port 50454
+1573170732553	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1573170732642	Marionette	INFO	Stopped listening on port 50329
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221573160879073%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1573171156511	Marionette	INFO	Stopped listening on port 50454
+1573171270804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/23n89jb92016qk1f43hvt4b80000gn/T/rust_mozprofile.fdMLHhlMCjKf"
+1573171271195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573171271195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573171271195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573171271195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573171272546	Marionette	INFO	Listening on port 50950
+1573171272553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221573160879073%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1573171699637	Marionette	INFO	Stopped listening on port 50950
+1573171706252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/23n89jb92016qk1f43hvt4b80000gn/T/rust_mozprofile.N5q6rJN0Tpwu"
+1573171706639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573171706639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573171706640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573171706640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573171707950	Marionette	INFO	Listening on port 51042
+1573171707992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1573171758678	Marionette	INFO	Stopped listening on port 51042
+1573171791113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/23n89jb92016qk1f43hvt4b80000gn/T/rust_mozprofile.nbkqoNPxHAPb"
+1573171791492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573171791492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573171791492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573171791492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573171792795	Marionette	INFO	Listening on port 51101
+1573171792844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+1573171827313	Marionette	INFO	Stopped listening on port 51101
+1573171863420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/23n89jb92016qk1f43hvt4b80000gn/T/rust_mozprofile.ih0pHeLvECcO"
+1573171863785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573171863785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573171863786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573171863786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573171865097	Marionette	INFO	Listening on port 51210
+1573171865166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+[Child 2328, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1573171890911	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/23n89jb92016qk1f43hvt4b80000gn/T/rust_mozprofile.zZqWc5U4Xy29"
+1573171891306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573171891306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573171891306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573171891306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573171892610	Marionette	INFO	Listening on port 51269
+1573171892657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/dfntzssuyw9n3qu93zfilcgz3, line 2084: unreachable code after return statement
+1573171895001	Marionette	INFO	Stopped listening on port 51210
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221573160879073%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221573172265255%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1573173146044	Marionette	INFO	Stopped listening on port 51269
+1573671411832	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/23n89jb92016qk1f43hvt4b80000gn/T/rust_mozprofile.jTz52BKH3SJ8"
+1573671412385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573671412385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573671412385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573671412385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573671413934	Marionette	INFO	Listening on port 58562
+1573671413967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/2ksewde8cpxl0t6aqyzy2ws2z, line 2084: unreachable code after return statement
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+[Child 9117, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221573670399512%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1573671865648	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/23n89jb92016qk1f43hvt4b80000gn/T/rust_mozprofile.Zz2b7KdhRiEm"
+1573671866039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573671866039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573671866039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573671866039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573671867344	Marionette	INFO	Listening on port 60129
+1573671867391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573671867988	Marionette	INFO	Stopped listening on port 58562
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/2ksewde8cpxl0t6aqyzy2ws2z, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/2ksewde8cpxl0t6aqyzy2ws2z, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/2ksewde8cpxl0t6aqyzy2ws2z, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/2ksewde8cpxl0t6aqyzy2ws2z, line 2084: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221573670399512%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1573672001418	Marionette	INFO	Stopped listening on port 60129
+1573672002756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/23n89jb92016qk1f43hvt4b80000gn/T/rust_mozprofile.UfNHRwlV5XYY"
+1573672003128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573672003128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573672003128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573672003128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573672004439	Marionette	INFO	Listening on port 60213
+1573672004490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/2ksewde8cpxl0t6aqyzy2ws2z, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/2ksewde8cpxl0t6aqyzy2ws2z, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/2ksewde8cpxl0t6aqyzy2ws2z, line 2084: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/2ksewde8cpxl0t6aqyzy2ws2z, line 2084: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221573670399512%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1573672150388	Marionette	INFO	Stopped listening on port 60213
